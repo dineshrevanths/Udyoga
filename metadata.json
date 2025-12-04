@@ -1,0 +1,5 @@
+{
+  "name": "Udyoga",
+  "description": "An AI-powered career coach that analyzes your resume against a specific job description to provide actionable, ATS-friendly optimization advice.",
+  "requestFramePermissions": []
+}
